@@ -1,6 +1,6 @@
 # Prácticas del Curso de Elementos de Programación
 
-##Práctina No. 1 Configuración del contenedor tomcat
+##Práctica No. 1 Configuración del contenedor tomcat
 
 ```xml
 <Connector port="8095" protocol="HTTP/1.1"
